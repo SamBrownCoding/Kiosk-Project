@@ -1,0 +1,42 @@
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.exe
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.deps.json
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.runtimeconfig.json
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.dll
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.pdb
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.AssemblyInfoInputs.cache
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.AssemblyInfo.cs
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.csproj.CoreCompileInputs.cache
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.dll
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\refint\Kiosk-Project.dll
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.pdb
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.genruntimeconfig.cache
+C:\Users\MCA-26\Documents\GitHub\Test-C-\Kiosk-Project\obj\Debug\net8.0\ref\Kiosk-Project.dll
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.exe
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.deps.json
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.runtimeconfig.json
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.dll
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.pdb
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.AssemblyInfoInputs.cache
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.AssemblyInfo.cs
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.csproj.CoreCompileInputs.cache
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.dll
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\refint\Kiosk-Project.dll
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.pdb
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.genruntimeconfig.cache
+C:\Users\stb39\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\ref\Kiosk-Project.dll
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.exe
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.deps.json
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.runtimeconfig.json
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.dll
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\bin\Debug\net8.0\Kiosk-Project.pdb
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.AssemblyInfoInputs.cache
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.AssemblyInfo.cs
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.csproj.CoreCompileInputs.cache
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.dll
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\refint\Kiosk-Project.dll
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.pdb
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\Kiosk-Project.genruntimeconfig.cache
+C:\Users\MCA-26\OneDrive\Documents\C# Stuff\VISUAL STUDIO\Kiosk_Project REvised\Kiosk-Project\obj\Debug\net8.0\ref\Kiosk-Project.dll
